@@ -1,0 +1,202 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "director": {
+        "firstName": "Frank",
+        "lastName": "Darabont"
+      },
+      "genre": "DRAMA",
+      "date": "1994",
+      "actors": [
+        {
+          "firstName": "Tim",
+          "lastName": "Robbins"
+        },
+        {
+          "firstName": "Morgan",
+          "lastName": "Freeman"
+        },
+        {
+          "firstName": "Bob",
+          "lastName": "Gunton"
+        }
+      ]
+    },
+    {
+      "title": "Seven",
+      "director": {
+        "firstName": "David",
+        "lastName": "Fincher"
+      },
+      "genre": "THRILLER",
+      "date": "1995",
+      "actors": [
+        {
+          "firstName": "Morgan",
+          "lastName": "Freeman"
+        },
+        {
+          "firstName": "Brad",
+          "lastName": "Pitt"
+        },
+        {
+          "firstName": "Gwyneth",
+          "lastName": "Paltrow"
+        }
+      ]
+    },
+    {
+      "title": "Fight Club",
+      "director": {
+        "firstName": "David",
+        "lastName": "Fincher"
+      },
+      "genre": "DRAMA",
+      "date": "1999",
+      "actors": [
+        {
+          "firstName": "Brad",
+          "lastName": "Pitt"
+        },
+        {
+          "firstName": "Edward",
+          "lastName": "Norton"
+        }
+      ]
+    },
+    {
+      "title": "Unforgiven",
+      "director": {
+        "firstName": "Clint",
+        "lastName": "Eastwood"
+      },
+      "genre": "WESTERN",
+      "date": "1992",
+      "actors": [
+        {
+          "firstName": "Clint",
+          "lastName": "Eastwood"
+        },
+        {
+          "firstName": "Morgan",
+          "lastName": "Freeman"
+        }
+      ]
+    },
+    {
+      "title": "Ocean's Eleven",
+      "director": {
+        "firstName": "Steven",
+        "lastName": "Soderbergh"
+      },
+      "genre": "COMEDY",
+      "date": "2001",
+      "actors": [
+        {
+          "firstName": "Brad",
+          "lastName": "Pitt"
+        },
+        {
+          "firstName": "George",
+          "lastName": "Clooney"
+        },
+        {
+          "firstName": "Julia",
+          "lastName": "Roberts"
+        }
+      ]
+    },
+    {
+      "title": "Now You See Me",
+      "director": {
+        "firstName": "Louis",
+        "lastName": "Leterrier"
+      },
+      "genre": "THRILLER",
+      "date": "2013",
+      "actors": [
+        {
+          "firstName": "Morgan",
+          "lastName": "Freeman"
+        },
+        {
+          "firstName": "Jesse",
+          "lastName": "Eisenberg"
+        }
+      ]
+    },
+    {
+      "title": "The Matrix",
+      "director": {
+        "firstName": "Lana",
+        "lastName": "Wachowski"
+      },
+      "genre": "SCI-FI",
+      "date": "1999",
+      "actors": [
+        {
+          "firstName": "Keanu",
+          "lastName": "Reeves"
+        },
+        {
+          "firstName": "Laurence",
+          "lastName": "Fishburne"
+        }
+      ]
+    },
+    {
+      "title": "Troy",
+      "director": {
+        "firstName": "Wolfgang",
+        "lastName": "Petersen"
+      },
+      "genre": "ACTION",
+      "date": "2004",
+      "actors": [
+        {
+          "firstName": "Brad",
+          "lastName": "Pitt"
+        },
+        {
+          "firstName": "Eric",
+          "lastName": "Bana"
+        }
+      ]
+    },
+    {
+      "title": "Lucy",
+      "director": {
+        "firstName": "Luc",
+        "lastName": "Besson"
+      },
+      "genre": "ACTION",
+      "date": "2014",
+      "actors": [
+        {
+          "firstName": "Scarlett",
+          "lastName": "Johansson"
+        }
+      ]
+    },
+    {
+      "title": "Pulp Fiction",
+      "director": {
+        "firstName": "Quentin",
+        "lastName": "Tarantino"
+      },
+      "genre": "CRIME",
+      "date": "1994",
+      "actors": [
+        {
+          "firstName": "John",
+          "lastName": "Travolta"
+        },
+        {
+          "firstName": "Samuel",
+          "lastName": "Jackson"
+        }
+      ]
+    }
+  ]
+}
