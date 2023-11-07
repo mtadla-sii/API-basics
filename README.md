@@ -8,6 +8,9 @@ https://json2csharp.com/code-converters/json-to-pojo
 
 jsonpath https://jsonpath.com/
 
+fakse api:
+https://jsonplaceholder.typicode.com/
+
 
 ## offtop
 temat konfuguracji AI aby nie udostępniałą naszyhc danych
