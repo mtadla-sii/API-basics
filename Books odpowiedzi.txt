@@ -1,0 +1,23 @@
+1. Jakie jest miasto, w którym znajduje się biblioteka?
+$.library.address.city
+
+2. Pobierz wszystkie informacje o adresie biblioteki
+$.library.address.*
+
+3. Pobierz wszystkie tytuły książek dostępnych w bibliotece
+$.library.books[*].title
+
+4. Które książki zostały wypożyczone - podaj tytuły? 
+$.library.books[?(@.borrowed==true)].title
+
+5. Pobierz wszystkie informacje o książkach napisanych przez J.R.R. Tolkiena
+$.library.books[?(@.author=="J.R.R. Tolkien")]
+
+6. Podaj tytuły książek, które zostały napisane przed 1900 rokiem
+$.library.books[?(@.year<1900)].title
+
+7. Pobierz tytuły książek, które są z gatunku "Fantasy" i nie zostały wypożyczone
+$.library.books[?(@.genre=="Fantasy" && @.borrowed==false)].title
+
+8. Pobierz rok publikacji książki o tytule "The Hobbit"
+$.library.books[?(@.title=="The Hobbit")].year
