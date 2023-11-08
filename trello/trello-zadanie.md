@@ -127,7 +127,7 @@ https://developer.atlassian.com/cloud/trello/rest/api-group-cards/#api-cards-id-
     W zakładce test:
     - dodaj test sprawdzający status code
     - dodaj test sprawdzający czy w reponse body tekst komentarza to "done!"
-    - zapisz otrzymane ID tablicy jako zmienną kolekcji o nazwie 'boardId'
+    - zapisz otrzymane ID tablicy jako zmienną kolekcji o nazwie 'actionId'
     
 ### 6. Create Reaction for Action - POST /1/actions/{idAction}/reactions
 
@@ -146,7 +146,6 @@ https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-actions
 ```   
     W zakładce test:
     - dodaj test sprawdzający status code
-    - zapisz otrzymane ID tablicy jako zmienną kolekcji o nazwie 'boardId'
     
 ### 7. Update a Card - PUT /1/cards/{id}
 
