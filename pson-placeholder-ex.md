@@ -20,13 +20,13 @@
 2. Nadaj zapytaniu nazwę `Get Post Details` i zapisz w kolekcji.
 3. Przejdź do zakładki "Tests" i dodaj dwa testy:
    - Snippet "Status code: Code is 200" aby sprawdzić kod odpowiedzi.
-   - Snippet "Response body: JSON value check" z JSONPath dla wartości `jsonData.id` i oczekiwaną wartością `1`, aby sprawdzić, czy pole `id` w odpowiedzi ma wartość `1`.
+   - Snippet "Response body: JSON value check" z JSONPath dla wartości `id` i oczekiwaną wartością `1`, aby sprawdzić, czy pole `id` w odpowiedzi ma wartość `1`.
 4. Wyślij zapytanie i sprawdź wyniki testów.
 
 <details>
 <summary>Podpowiedzi</summary>
 
- `jsonData.length`
+ `jsonData.id`
 
 </details>
 
