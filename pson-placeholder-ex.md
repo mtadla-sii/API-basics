@@ -46,13 +46,13 @@
 4. Nadaj zapytaniu nazwę `Create Post` i zapisz w kolekcji.
 5. Przejdź do zakładki "Tests" i dodaj dwa testy:
 - Snippet "Status code: Code is 201" aby sprawdzić kod odpowiedzi.
-- Snippet "Response body: JSON value check" z JSONPath dla wartości `jsonData.title` i oczekiwaną wartością `foo` aby sprawdzić wartość klucza `title` w odpowiedzi.
+- Snippet "Response body: JSON value check" z JSONPath dla wartości `title` i oczekiwaną wartością `foo` aby sprawdzić wartość klucza `title` w odpowiedzi.
 6. Wyślij zapytanie i sprawdź wyniki testów.
 
 <details>
 <summary>Podpowiedzi</summary>
 
- `jsonData.length`
+ `jsonData.title`
 
 </details>
 
@@ -74,7 +74,7 @@
 4. Wyślij zapytanie i sprawdź wyniki testów.
 
 <details>
-<summary>Odpowiedź poprawnego ULRa z parametrem </summary>
+<summary>Podpowiedź dla poprawnego ULRa z parametrem </summary>
 
  `https://jsonplaceholder.typicode.com/posts?userId=1`
 
