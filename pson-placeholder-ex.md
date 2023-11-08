@@ -7,7 +7,7 @@
 4. Wyślij zapytanie i sprawdź wyniki testów.
 
 <details>
-<summary>Odpowiedź do JSON path</summary>
+<summary>Podpowiedzi</summary>
 
  `jsonData.length`
 
@@ -24,7 +24,7 @@
 4. Wyślij zapytanie i sprawdź wyniki testów.
 
 <details>
-<summary>Odpowiedź do JSON path</summary>
+<summary>Podpowiedzi</summary>
 
  `jsonData.length`
 
@@ -50,7 +50,7 @@
 6. Wyślij zapytanie i sprawdź wyniki testów.
 
 <details>
-<summary>Odpowiedź do JSON path</summary>
+<summary>Podpowiedzi</summary>
 
  `jsonData.length`
 
@@ -62,15 +62,8 @@
 2. Nadaj zapytaniu nazwę `Delete Post` i zapisz w kolekcji.
 3. Przejdź do zakładki "Tests" i dodaj dwa testy:
 - Snippet "Status code: Code is 200" aby sprawdzić kod odpowiedzi.
-- Snippet "Response body: JSON value check" z JSONPath dla wartości `jsonData.title` (zauważ, że przy metodzie DELETE może nie być zawartości w odpowiedzi, więc ten test może nie być aplikowalny; dopasuj lub opuść ten krok w zależności od API).
-5. Wyślij zapytanie i sprawdź wyniki testów.
+4. Wyślij zapytanie i sprawdź wyniki testów.
 
-<details>
-<summary>Odpowiedź do JSON path</summary>
-
- `jsonData.length`
-
-</details>
 
 ## Zadanie 5: Filtracja postów według userId
 1. Utwórz zapytanie GET z parametrem query `userId=1` do URL: `https://jsonplaceholder.typicode.com/posts......` (kropki podane zeby nie spoilerować rozwiązania całego zadania)
@@ -109,7 +102,7 @@
 5. Wyślij zapytanie i sprawdź wyniki testów.
 
 <details>
-<summary>Odpowiedź do JSON path</summary>
+<summary>Podpowiedzi</summary>
 
  `jsonData.title`
  `jsonData.id`
@@ -135,7 +128,7 @@
 5. Wyślij zapytanie i sprawdź wyniki testów.
 
 <details>
-<summary>Odpowiedź do JSON path</summary>
+<summary>Podpowiedzi</summary>
 
  `jsonData.title`
 
