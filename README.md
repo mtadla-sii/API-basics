@@ -1,5 +1,10 @@
 # shared-links
 
+metoda POST
+{{baseUrl}}/boards/?name=nazwa&defaultLists=false
+
+
+
 walidacja json:
 https://jsonformatter.curiousconcept.com/
 
