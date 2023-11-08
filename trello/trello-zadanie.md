@@ -87,6 +87,7 @@ https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-p
 
 [https://developer.atlassian.com/cloud/trello/rest/api-group-cards/#api-cards-post
 ](https://developer.atlassian.com/cloud/trello/rest/api-group-lists/#api-lists-post)
+  
     Dodaj do tablicy listę o nazwie DONE
     
     W zakładce test:
@@ -98,6 +99,7 @@ https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-p
 
 [https://developer.atlassian.com/cloud/trello/rest/api-group-cards/#api-cards-post
 ](https://developer.atlassian.com/cloud/trello/rest/api-group-lists/#api-lists-post)
+   
     Dodaj do tablicy listę o nazwie TODO
     
     W zakładce test:
