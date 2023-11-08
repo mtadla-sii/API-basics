@@ -1,23 +1,36 @@
-## Zadanie 1: Uzyskanie klucza API dla trello
-0. Stwórz sobie tymczasowego maila na https://temp-mail.org/pl/ (jeżeli chcesz możesz też korzystać z własnego adresu email)
-1. Trello rejestracja:
-https://trello.com/pl
+# Instrukcja Uzyskania Klucza API dla Trello
 
-2. Aktywacja maila, nadanie hasła
+## Krok 1: Tworzenie Tymczasowego Emaila
+1. Otwórz stronę [temp-mail.org](https://temp-mail.org/pl/) aby utworzyć tymczasowy adres email.
+   - Alternatywnie, możesz użyć własnego adresu email.
 
+## Krok 2: Rejestracja w Trello
+1. Przejdź do strony rejestracji Trello: [Trello Sign Up](https://trello.com/pl/signup).
+2. Zarejestruj się używając tymczasowego emaila lub własnego adresu.
 
-3. Zaloguj się na swoje konto i utwórz nową tablicę (trello zaproponuje 30-dniowy plan premium ale wybierz opcję darmową)
+## Krok 3: Aktywacja Konta i Nadanie Hasła
+1. Sprawdź swoją skrzynkę pocztową (tymczasową lub własną) i aktywuj konto Trello poprzez link aktywacyjny.
+2. Ustaw hasło dla swojego nowego konta Trello.
 
-4. Po stworzeniu nowej tablicy wejdź na:
-https://trello.com/power-ups/admin
-+ akceptacja regulaminu
+## Krok 4: Logowanie i Tworzenie Tablicy
+1. Zaloguj się na swoje konto Trello.
+2. Utwórz nową tablicę w Trello. Gdy zostaniesz zapytany o plan premium, wybierz opcję darmową.
 
-4. Stwórz nowy power-up
-https://trello.com/power-ups/admin/new
+## Krok 5: Power-Ups
+1. Po stworzeniu tablicy, przejdź do strony zarządzania Power-Ups: [Trello Power-Ups Admin](https://trello.com/power-ups/admin).
+2. Zaakceptuj regulamin, aby kontynuować.
 
-uzupełnij wymagane pola
+## Krok 6: Tworzenie Nowego Power-Up
+1. Utwórz nowy Power-Up klikając [tutaj](https://trello.com/power-ups/admin/new).
+2. Wypełnij wymagane pola w formularzu.
 
-5. Po stworzeniu power-up zostaniesz przeniesiony do okna z tworzeniem nowego API key - wygeneruj nowy klucz
+## Krok 7: Uzyskanie Klucza API
+1. Po stworzeniu Power-Up, zostaniesz przeniesiony do okna z danymi Twojego API.
+2. Zapisz sobie wyświetlony klucz API w notatniku (na zdjęciu pkt nr 1)
+3. Następnie wygeneruj nowy token, kliknij w 'token' oznaczony na zdjęciu numerem 2 i następnie przejdź przez cały proces aby wygenerować token.
+5. Skopiuj i zapisz sobie wygenerowany token w notatniku
+
+![Trello API Key](img/trello-token.png)
 
 
 
